@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/tabs-project/static/css/main.5a02e167.chunk.css",
+    "main.css": "/tabs-project/static/css/main.786700bc.chunk.css",
     "main.js": "/tabs-project/static/js/main.837d3425.chunk.js",
     "main.js.map": "/tabs-project/static/js/main.837d3425.chunk.js.map",
     "runtime-main.js": "/tabs-project/static/js/runtime-main.0966d162.js",
@@ -10,13 +10,13 @@
     "static/js/3.cc2421ca.chunk.js": "/tabs-project/static/js/3.cc2421ca.chunk.js",
     "static/js/3.cc2421ca.chunk.js.map": "/tabs-project/static/js/3.cc2421ca.chunk.js.map",
     "index.html": "/tabs-project/index.html",
-    "static/css/main.5a02e167.chunk.css.map": "/tabs-project/static/css/main.5a02e167.chunk.css.map",
+    "static/css/main.786700bc.chunk.css.map": "/tabs-project/static/css/main.786700bc.chunk.css.map",
     "static/js/2.7acf0991.chunk.js.LICENSE.txt": "/tabs-project/static/js/2.7acf0991.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.0966d162.js",
     "static/js/2.7acf0991.chunk.js",
-    "static/css/main.5a02e167.chunk.css",
+    "static/css/main.786700bc.chunk.css",
     "static/js/main.837d3425.chunk.js"
   ]
 }
