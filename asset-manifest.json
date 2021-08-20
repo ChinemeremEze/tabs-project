@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/tabs-project/static/css/main.5a02e167.chunk.css",
-    "main.js": "/tabs-project/static/js/main.837d3425.chunk.js",
-    "main.js.map": "/tabs-project/static/js/main.837d3425.chunk.js.map",
-    "runtime-main.js": "/tabs-project/static/js/runtime-main.0966d162.js",
-    "runtime-main.js.map": "/tabs-project/static/js/runtime-main.0966d162.js.map",
-    "static/js/2.7acf0991.chunk.js": "/tabs-project/static/js/2.7acf0991.chunk.js",
-    "static/js/2.7acf0991.chunk.js.map": "/tabs-project/static/js/2.7acf0991.chunk.js.map",
-    "static/js/3.cc2421ca.chunk.js": "/tabs-project/static/js/3.cc2421ca.chunk.js",
-    "static/js/3.cc2421ca.chunk.js.map": "/tabs-project/static/js/3.cc2421ca.chunk.js.map",
-    "index.html": "/tabs-project/index.html",
-    "static/css/main.5a02e167.chunk.css.map": "/tabs-project/static/css/main.5a02e167.chunk.css.map",
-    "static/js/2.7acf0991.chunk.js.LICENSE.txt": "/tabs-project/static/js/2.7acf0991.chunk.js.LICENSE.txt"
+    "main.css": "/tabsproject/static/css/main.5a02e167.chunk.css",
+    "main.js": "/tabsproject/static/js/main.837d3425.chunk.js",
+    "main.js.map": "/tabsproject/static/js/main.837d3425.chunk.js.map",
+    "runtime-main.js": "/tabsproject/static/js/runtime-main.bdbc12e4.js",
+    "runtime-main.js.map": "/tabsproject/static/js/runtime-main.bdbc12e4.js.map",
+    "static/js/2.7acf0991.chunk.js": "/tabsproject/static/js/2.7acf0991.chunk.js",
+    "static/js/2.7acf0991.chunk.js.map": "/tabsproject/static/js/2.7acf0991.chunk.js.map",
+    "static/js/3.cc2421ca.chunk.js": "/tabsproject/static/js/3.cc2421ca.chunk.js",
+    "static/js/3.cc2421ca.chunk.js.map": "/tabsproject/static/js/3.cc2421ca.chunk.js.map",
+    "index.html": "/tabsproject/index.html",
+    "static/css/main.5a02e167.chunk.css.map": "/tabsproject/static/css/main.5a02e167.chunk.css.map",
+    "static/js/2.7acf0991.chunk.js.LICENSE.txt": "/tabsproject/static/js/2.7acf0991.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.0966d162.js",
+    "static/js/runtime-main.bdbc12e4.js",
     "static/js/2.7acf0991.chunk.js",
     "static/css/main.5a02e167.chunk.css",
     "static/js/main.837d3425.chunk.js"
